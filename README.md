@@ -4,7 +4,7 @@ I'm a passionate Fullstack Web and Mobile Developer from Lahore, Pakistan.
 
 
 
-💻 - Software Engineer at i2c — July 2020 to Present
+💻 - Software Engineer at i2c — July 2020 to Present <br />
 😎 - Achieved Level 2 on Fiverr — March 2021
 😎 - Completed over 50 Freelancing projects in Web, Mobile and Machine learning.
 🎓 - BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020
